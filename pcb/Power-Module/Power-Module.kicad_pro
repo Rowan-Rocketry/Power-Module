@@ -616,6 +616,14 @@
     [
       "ff4b16af-c6be-4b71-91fd-1f3656363eb8",
       "12V SEPIC"
+    ],
+    [
+      "dda25270-00d6-4597-b6e2-249446c0c724",
+      "Battery Charger"
+    ],
+    [
+      "0eff5c74-8b49-4aba-b6ca-e5f2fc9e7b14",
+      "3.3V Buck"
     ]
   ],
   "text_variables": {}
