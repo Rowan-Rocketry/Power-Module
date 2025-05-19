@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 17,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -87,16 +87,16 @@
       9
     ],
     "col_widths": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      199,
+      72,
+      139,
+      87,
+      129,
+      140,
+      119,
+      137,
+      495,
+      313
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
@@ -107,8 +107,8 @@
     "group_by_netclass": false,
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
-    "sort_ascending": true,
-    "sorting_column": 0
+    "sort_ascending": false,
+    "sorting_column": 7
   },
   "open_jobsets": [],
   "project": {
